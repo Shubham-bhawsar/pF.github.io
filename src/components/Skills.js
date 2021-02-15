@@ -51,6 +51,28 @@ class Skills extends Component {
 								</div>
 							</div>
 						</div>
+						<div className="col-md-6 animate-box" data-animate-effect="fadeInLeft">
+							<div className="progress-wrap">
+								<h3>Django</h3>
+								<div className="progress">
+								 	<div className="progress-bar color-4" role="progressbar" aria-valuenow="70"
+								  	aria-valuemin="0" aria-valuemax="100" style={{width:"90%"}}>
+								    <span></span>
+								  	</div>
+								</div>
+							</div>
+						</div>
+						<div className="col-md-6 animate-box" data-animate-effect="fadeInLeft">
+							<div className="progress-wrap">
+								<h3>Flask</h3>
+								<div className="progress">
+								 	<div className="progress-bar color-4" role="progressbar" aria-valuenow="70"
+								  	aria-valuemin="0" aria-valuemax="100" style={{width:"90%"}}>
+								    <span></span>
+								  	</div>
+								</div>
+							</div>
+						</div>
 						<div className="col-md-6 animate-box" data-animate-effect="fadeInRight">
 							<div className="progress-wrap">
 								<h3>Machine Learning</h3>
