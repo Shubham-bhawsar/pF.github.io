@@ -19,6 +19,7 @@ class Home extends Component {
 
 													{/* <h2>100% html5 bootstrap templates Made by <a href="https://colorlib.com/" target="_blank">colorlib.com</a></h2> */}
 													{/* <p><a className="btn btn-primary btn-learn">View Portfolio <i className="icon-briefcase3"></i></a></p> */}
+													<p><a className="btn btn btn-primary btn-learn" href="https://drive.google.com/file/d/1RYsKjYSLOY5wYZAAOsKjAvdxTwuHiAOJ/view?usp=sharing" target="_blank" download>Download CV <i className="icon-download4"></i></a></p>
 												</div>
 											</div>
 										</div>
@@ -34,7 +35,7 @@ class Home extends Component {
 												<div className="desc">
 													<h1 style={{ color: "rgb(245, 237, 237)" }}>I  am a <br /> Developer<br /></h1>
 													{/* <h2>100% html5 bootstrap templates Made by <a href="https://colorlib.com/" target="_blank">colorlib.com</a></h2> */}
-													<p><a className="btn btn btn-primary btn-learn" href="https://drive.google.com/file/d/1qinpI-pasvwmLPe7jovSVrn22dzn_1rF/view?usp=sharing" target="_blank" download>Download CV <i className="icon-download4"></i></a></p>
+													<p><a className="btn btn btn-primary btn-learn" href="https://drive.google.com/file/d/1RYsKjYSLOY5wYZAAOsKjAvdxTwuHiAOJ/view?usp=sharing" target="_blank" download>Download CV <i className="icon-download4"></i></a></p>
 												</div>
 											</div>
 										</div>
