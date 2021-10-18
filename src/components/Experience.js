@@ -27,6 +27,10 @@ class Experience extends Component {
 												<ul>
 													<li><p>Working with Gojek’s Customer Platform Backend team to build Customer Loyalty Programme.
 										</p></li>
+													<li>Integrated A/B testing platform with the current project.</li>
+													<li>Increased Eﬃciency of the project by unnecessary fetching of
+entries from the Database.</li>
+													<li>Worked with multiple database like aerospike and spannerDB.</li>
 													<li>
 														<b>Tools and Technology used</b>:- Go,Ruby,Chef,Aerospike DB,Spanner DB,A/B testing Platform.
 													</li>
